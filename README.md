@@ -2,7 +2,7 @@
 <div align="center">
 <h1 align="center">Hola, soy Alex 👋</h1>
 </div>
-<img src="https://imgur.com/a/rH0c73n">
+<img src="https://i.imgur.com/bC1UN7F.png" title="source: imgur.com" />
 
 ## Sobre mi
  
