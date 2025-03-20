@@ -28,36 +28,6 @@
  <img src="https://imgur.com/a/v59v6ur" width="400" alt="Proyecto Angular"></a>
 <p>
 <h3 align="center">Proyecto Pagina Restaurante en Laravel</h3>
-
-<div align="center">
-<h1 align="center">Hola, soy Alex 👋</h1>
-</div>
-<a href="https://imgur.com/8THPhtg"><img src="https://i.imgur.com/8THPhtg.png" title="source: imgur.com" /></a>
-
-## Sobre mi
- 
-### 💻 Web Developer | Apasionado por la programación  
-
-🔹 Me especializo en **HTML, CSS, PHP y Angular**  
-🔹 Siempre aprendiendo nuevas tecnologías y mejorando mis habilidades  
-🔹 Me gusta trabajar en equipo y resolver problemas con código  
-
-## 🚀 Tecnologías  
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-
-## Proyectos *especiales*
-<table>
-<tr>
-<td width="50%">
-<h3 align="center">Proyecto tienda videojuegos en Angular</h3>
-<div align="center">
-<a href="https://github.com/Alex29ec/ProyectoAngular.git" target="_blank">
- <img src="https://imgur.com/a/v59v6ur" width="400" alt="Proyecto Angular"></a>
-<p>
-<h3 align="center">Proyecto Pagina Restaurante en Laravel</h3>
 <a href="https://github.com/Alex29ec/Proyecto-Laravel.git"><img src="https://i.imgur.com/fEdv40S.png" title="source: imgur.com" /></a>
 </p>                                                                        
 </td>
