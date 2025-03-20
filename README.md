@@ -13,13 +13,11 @@
 🔹 Me gusta trabajar en equipo y resolver problemas con código  
 
 ## 🚀 Tecnologías  
-<div>
+
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)  
-
-</div>
 ## Proyectos *PERSONALES*
 <table>
 <tr>
