@@ -31,7 +31,8 @@
 <a href="https://imgur.com/fEdv40S"><img src="https://i.imgur.com/fEdv40S.png" title="source: imgur.com" /></a>
 </p>                                                                        
 </td>
-
+</div>
+</table>
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
