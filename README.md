@@ -24,11 +24,11 @@
 <td width="50%">
 <h3 align="center">Proyecto tienda videojuegos en Angular</h3>
 <div align="center">
-<a href="https://imgur.com/QyZ67Yu">
+<a href="https://github.com/Alex29ec/ProyectoAngular.git">
  <img src="https://i.imgur.com/QyZ67Yu.png" title="source: imgur.com" /></a>
 <p>
 <h3 align="center">Proyecto Pagina Restaurante en Laravel</h3>
-<a href="https://imgur.com/fEdv40S"><img src="https://i.imgur.com/fEdv40S.png" title="source: imgur.com" /></a>
+<a href="https://github.com/Alex29ec/Proyecto-Laravel.git"><img src="https://i.imgur.com/fEdv40S.png" title="source: imgur.com" /></a>
 </p>                                                                        
 </td>
 </div>
