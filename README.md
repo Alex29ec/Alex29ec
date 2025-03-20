@@ -23,6 +23,7 @@
 <tr>
 <td width="50%">
 <h3 align="center">Proyecto tienda videojuegos en Angular</h3>
+ <p>Una tienda de videojuegos con todo lo necesario para comprar productos o videojuegos.Realizada con Angular 19, CSS</p>
 <div align="center">
 <a href="https://github.com/Alex29ec/ProyectoAngular.git">
  <img src="https://i.imgur.com/QyZ67Yu.png" title="source: imgur.com" /></a>
