@@ -28,7 +28,7 @@
 <p>
 <h3 align="center">Proyecto Pagina Restaurante en Laravel</h3>
 <a href="https://github.com/Alex29ec/Proyecto-Laravel.git" target="_blank">
-<img src="https://imgur.com/a/UfZ2VQy">
+<img src="https://imgur.com/a/zgawmpM">
 </a>
 </p>                                                                        
 </td>
