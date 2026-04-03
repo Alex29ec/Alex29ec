@@ -39,7 +39,6 @@
 <p align="center">
 <a href="https://github.com/Alex29ec">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Alex29ec&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Alex29ec&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p></p>                                                                        
 </td>
